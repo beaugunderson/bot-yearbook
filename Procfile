@@ -1,1 +1,1 @@
-bot-yearbook: node bot-yearbook.js
+bots: node bot-yearbook.js bots
